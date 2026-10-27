@@ -1,4 +1,5 @@
 # Actividad: Configuración y Servicios DNS
+![Debian](https://shields.io) ![Linux](https://shields.io) ![GitHub](https://shields.io)
 
 Este repositorio contiene la resolución práctica de la actividad de Servicios de Red sobre el sistema de nombres de dominio (DNS).
 
